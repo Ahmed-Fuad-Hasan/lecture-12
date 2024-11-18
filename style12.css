@@ -1,0 +1,24 @@
+.img-gallery{
+    width: 15%;
+    height: auto;
+    border: 2px solid gray;
+    float: left;
+    margin: 5px;
+}
+.img-gallery:hover{
+    border: 2px solid red;
+}
+img{
+    width: 100%;
+    opacity: 0.8;
+}
+img:hover{
+    opacity: 1;
+}
+.caption{
+    text-align: center;
+    padding: 10px;
+    color: blueviolet;
+    font-weight: bold;
+   
+}
